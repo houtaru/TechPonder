@@ -25,7 +25,7 @@ function check(form) {
       check_account = false;
 
     if (check_account) {
-      var myWindow = window.open("login.html", "_self");
+      var myWindow = window.open("userlogin.html", "_self");
     } else {
       alert("Failed!!!"); /*displays error message*/
     }

@@ -280,12 +280,12 @@ h1{
 
 .link-news{
     display: block;
-    text-align: center;
+    text-align: left;
     height: 48%;
 }
 
 a.link-news:hover{
-    color: red;
+    color: rgb(105, 221, 241);
 }
 .video-youtube{
     width: 100%;
