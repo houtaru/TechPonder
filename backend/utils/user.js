@@ -1,11 +1,12 @@
 const sequelize = require("../models");
 
-async function findByEmail(email) {
-  return await sequelize.models.User.findOne({
-    where: { email },
-  });
+function formatUser(user) {
+  return {
+    full_name: user.full_name,
+    email: user.email,
+  };
 }
 
 module.exports = {
-  findByEmail,
+  formatUser,
 };
