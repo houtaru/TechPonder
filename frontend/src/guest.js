@@ -1,9 +1,9 @@
 function login() {
-  var myWindow = window.open("login.html", "_self");
+  var myWindow = window.open("userlogin.html", "_self");
 }
 
 function sign_up() {
-  var myWindow = window.open("register.html", "_self");
+  var myWindow = window.open("sign_up.html", "_self");
 }
 
 
