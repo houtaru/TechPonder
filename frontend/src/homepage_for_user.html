@@ -4,6 +4,7 @@
     <title>Homepage for user</title>
     <meta charset="utf-8" />
     <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" type="text/css" href="dropdown.css" />
     <link
       rel="stylesheet"
       type="text/css"
@@ -34,7 +35,15 @@
           </a>
         </div>
         <div class="login-icon">
-          <button id="button-user" type="button">U</button>
+            <button id="button-user" type="button" onclick="myFunction()">
+              U
+            </button>
+          <div id="button-user-content">
+            <a href="#">My profile</a>
+            <a href="#">Manager</a>
+            <a href="homepage_for_guest.html">Log out</a>
+            <a href="#">About us</a>
+          </div>
         </div>
       </nav>
     </header>
@@ -43,7 +52,9 @@
         <h1 id="banner">
           <div>TODAY</div>
         </h1>
-
+        <h6>
+          <div>The latest news you need for today</div>
+        </h6>
       </header>
       <div class="home-feed">
         <ul class="item-list">
@@ -166,8 +177,7 @@
                 href="https://www.facebook.com/nguyenbao.hailong/"
               >
                 nguyenbaohailong
-                </a
-              >
+              </a>
               <footer class="post-news-footer">
                 <div class="social-action">
                   <div class="post-time">
@@ -213,6 +223,16 @@
         </ul>
       </div>
     </div>
+
+    <script>
+      function myFunction() {
+        var x = document.getElementById("button-user-content");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
+      }
+    </script>
   </body>
 </html>
- 
