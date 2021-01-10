@@ -88,3 +88,17 @@ color: white;
 .links a{
 margin-left: 4px;
 }
+
+#home{
+    color:#e42b2b;
+    padding: 10px;
+    font-size: 30px;
+}
+
+#home a{
+    color:#e42b2b; 
+}
+
+#home a:hover{
+    color: #f78e8e;
+}
