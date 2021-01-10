@@ -1,0 +1,268 @@
+@font-face{
+    src: url(fonts/Actonia_PERSONAL.ttf);
+    font-family: Actonia;
+}
+h1{
+    color: blue;
+    border: 1cm;
+    width: fit-content ;
+}
+
+.main-nav{
+    width: 100%;
+    height: 55px;
+    border-bottom: 1px solid rgb(177, 177, 177);
+    text-align: left;
+  /*  font-family: 'Times New Roman', Times, serif; */
+}
+
+.menu{
+    margin: 0;
+    padding:  0;
+    font-family: sans-serif;
+    width: 60%;
+    display: block;
+    float: left;
+}
+.menu li{
+    margin: 0;
+    padding:  0;
+    display: inline-block;
+}
+
+.menu li a{
+    text-decoration: none;
+    position: relative;
+    color: #727272;
+    font-size: 14px;
+    font-weight:550;
+    display: block;
+    overflow: hidden;
+    padding: 14px 20px;
+}
+
+
+.search-box{
+    float: left;
+    height: 40px;
+    background-color:rgb(240, 240, 240);
+    padding: 4px;
+    border-radius: 10px;
+    border-color: #2f3640;
+    display: block;
+}
+.search-btn{
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: black;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 40px;   
+    width: 150px;
+}
+
+.search-box:hover >.search-txt{
+    width: 240px;
+    padding: 0 6px;
+}
+
+.login-icon{
+    float: right;
+    padding-top: 5px;
+    padding-right: 15px;
+    display: block;
+}
+
+#button-login{
+    font-size: 13px;
+    padding: 10px;
+    color: aliceblue;
+    background: linear-gradient(150deg, #f71818,#FF6666);
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
+
+#button-user{
+    font-size: 13px;
+    width: 40px;
+    height: 40px;
+    color: aliceblue;
+    background: linear-gradient(150deg, #f71818,#FF6666);
+    font-weight: bold;
+    border-radius: 50%;
+    border: none;
+}
+
+.home-page{
+    background-color:none;
+}
+
+.brand-banner{
+    margin-left: 16px;
+    margin-right: 16px;
+    display: block;
+    height: 400px;
+    text-align: center;
+}
+
+.brand-banner h1{
+    width: 100%;
+    display: block;
+    height: 100px;
+    padding-top: 80px;
+}
+
+
+#button-signup{
+    font-size: 20px;
+    padding: 16px;
+    color: aliceblue;
+    background: linear-gradient(150deg, #f71818,#FF6666);
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
+
+#banner{
+    color: black;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.home-feed{
+    width: inherit;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.item-list{
+    width: inherit;
+    grid-template-columns: repeat(3,calc(32%));
+    display: grid;
+    grid-row-gap: 100px;
+    grid-column-gap: 2%;
+    list-style-type: none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.item-in-list{
+    float: left;
+    width: inherit;
+    text-align: center;
+    background-color:black;
+    height: 700px;
+    padding: 20px;
+}
+.item-display{
+    box-sizing: inherit;
+    height: 100%;
+    }
+
+.pic{
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.post-card{
+    height: 100%;
+}
+
+.post-body{
+    height: inherit;
+    display: block;
+    background-color: rgb(233, 200, 133);
+}
+
+.article-image{
+    height: 50%;
+}
+
+.image-fic{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.post-news-footer{
+    display: block;
+}
+
+.social-action{
+    display: block;
+}
+
+.post-time{
+    display: block;
+    float: left;
+    color: rgb(153,153,153);
+}
+
+.social-button{
+    display: block;
+    float: right;
+    padding-left: 10px;
+    color: white;
+}
+
+.social-button a{
+    color: rgb(153,153,153);
+}
+.post-foot-news{
+    display: block;
+    width: 100%;
+}
+
+
+.link-news{
+    display: block;
+    text-align: center;
+    height: 48%;
+}
+
+a.link-news:hover{
+    color: red;
+}
+.video-youtube{
+    width: 100%;
+    text-align: center;
+}
+
+li{
+    display: list-item;
+}
+ul{
+    list-style-type: none;
+}
+
+
+body{
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+    color: #2f3640;
+}
+
+figure{
+    display: block;
+    margin: 0;
+}
+
