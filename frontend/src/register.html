@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <title>Sign up page</title>
+  </head>
+  <body>
+    <h1>Sign Up</h1>
+    <form name="login">
+      Username<input type="text" name="user_id" /> 
+      Password<input type="password" name="password"/>
+      Confirm Password<input type="password" name="confirm_password"/>
+      <input type="button" onclick="check(this.form)" value="Sign up" />
+      <input type="reset" value="Cancel" />
+    </form>
+    <script language="javascript">
+      function check(form) {
+        /*function to check userid & password*/
+        function readTextFile(file, callback) {
+          var rawFile = new XMLHttpRequest();
+          rawFile.overrideMimeType("application/json");
+          rawFile.open("GET", file, true);
+          rawFile.onreadystatechange = function () {
+            if (rawFile.readyState === 4 && rawFile.status == "200") {
+              callback(rawFile.responseText);
+            }
+          };
+          rawFile.send(null);
+        }
+        // var account;
+        readTextFile("input.json", function (text) {
+          var data = JSON.parse(text);
+          var account = data;
+          console.log(account);
+          var check_account = true;
+          for (var i in account) {
+            if (
+              form.user_id.value == account[i].user
+            ) {
+              check_account = false;
+            }
+          }
+          if (form.password.value!=form.confirm_password.value)
+            check_account=false;
+
+          if (check_account) {
+            
+            var myWindow = window.open("login.html", "_self");
+          } else {
+            alert("Failed!!!"); /*displays error message*/
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
