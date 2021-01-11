@@ -179,10 +179,13 @@ h1{
     margin-top: 60px;
 }
 
-#button-user:hover,  #button-signup:hover{
+#button-signup:hover{
     background: #f58383;
 }
 #button-login:hover{
+    background: #f58383;
+}
+#button-user:hover{
     background: #f58383;
 }
 
@@ -267,6 +270,7 @@ h1{
     float: right;
     padding-left: 10px;
     color: white;
+    cursor: pointer;
 }
 
 .social-button a{
