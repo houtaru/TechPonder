@@ -15,7 +15,19 @@ async function createOne({ full_name, email, password }) {
   return user;
 }
 
+async function updateOneByEmail(email, newUser) {
+  const user = await findOneByEmail(email);
+  return await user.update(...user, ...newUser);
+}
+
+async function deleteOneByEmail(email) {
+  const user = await findOneByEmail(email);
+  return await user.destroy();
+}
+
 module.exports = {
   findOneByEmail,
   createOne,
+  updateOneByEmail,
+  deleteOneByEmail,
 };

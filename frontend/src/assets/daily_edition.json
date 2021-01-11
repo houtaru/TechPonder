@@ -1,0 +1,208 @@
+{
+  "status": "ok",
+  "feed": {
+    "url": "https://flipboard.com/@news/the-daily-edition-3adc9613z.rss",
+    "title": "The Daily Edition",
+    "link": "https://flipboard.com/@news/the-daily-edition-3adc9613z",
+    "author": "",
+    "description": "The news you need for your day.",
+    "image": ""
+  },
+  "items": [
+    {
+      "title": "Top Republican says Trump committed 'impeachable offenses'",
+      "pubDate": "2021-01-10 05:09:57",
+      "link": "https://apnews.com/article/donald-trump-impeachments-pat-toomey-latin-america-61cc494f74843f711993105c3a32f640",
+      "guid": "flipboard-yFBwE7WiSkC_WAgoEh1wzQ:a:43591897-1610283002",
+      "author": "By DARLENE SUPERVILLE, ALAN FRAM and MARY CLARE JALONICK",
+      "thumbnail": "",
+      "description": "WASHINGTON (AP) \u2014 Two Republican senators now say Donald Trump should resign and a third says the president should be \u201cvery careful\u201d in his remaining days in office as the House prepares to impeach Trump in the wake of deadly riots at the Capitol.\nPennsylvania Sen. Pat Toomey on Sunday joined Alaska \u2026",
+      "content": "WASHINGTON (AP) \u2014 Two Republican senators now say Donald Trump should resign and a third says the president should be \u201cvery careful\u201d in his remaining days in office as the House prepares to impeach Trump in the wake of deadly riots at the Capitol.\nPennsylvania Sen. Pat Toomey on Sunday joined Alaska \u2026",
+      "enclosure": {
+        "link": "https://storage.googleapis.com/afs-prod/media/a3f21b028bd3418a922e3fb6b9b24287/3000.jpeg",
+        "type": "image/jpeg"
+      },
+      "categories": [
+        "U.S. Politics",
+        "Donald Trump",
+        "Impeachment",
+        "United States",
+        "Nancy Pelosi"
+      ]
+    },
+    {
+      "title": "Capitol attending physician warns lawmakers and staffers of potential Covid-19 exposure following riot",
+      "pubDate": "2021-01-10 18:09:18",
+      "link": "https://edition.cnn.com/2021/01/10/politics/capitol-covid-19-exposure-lawmakers/",
+      "guid": "flipboard-tgLCKuktRK26-iXeXkeoVw:a:43591897-1610309925",
+      "author": "By Daniella Diaz, Phil Mattingly",
+      "thumbnail": "",
+      "description": "Lawmakers and Capitol staff on Sunday received a memo from the Capitol's attending physician warning of a possible risk of Covid-19 exposure after a large group of lawmakers were forced to gather in a secure location during the breach of the US Capitol last week.",
+      "content": "Lawmakers and Capitol staff on Sunday received a memo from the Capitol's attending physician warning of a possible risk of Covid-19 exposure after a large group of lawmakers were forced to gather in a secure location during the breach of the US Capitol last week.",
+      "enclosure": {
+        "link": "https://ic-cdn.flipboard.com/cnn.com/69808f6521563bd2b3db1da646239bfac56b6e7a/original.jpg",
+        "type": "image/jpeg"
+      },
+      "categories": ["News", "Storming of U.S. Capitol"]
+    },
+    {
+      "title": "Indonesian divers find parts of Boeing plane wreckage in Java Sea",
+      "pubDate": "2021-01-09 11:55:21",
+      "link": "https://www.usatoday.com/story/travel/airline-news/2021/01/09/boeing-indonesia-passenger-jet-domestic-flight/6607641002/",
+      "guid": "flipboard-bmhXoQhYR8eTRg_9QVNspg:a:43591897-1610296263",
+      "author": "Morgan Hines",
+      "thumbnail": "",
+      "description": "Indonesian divers on Sunday located parts of the wreckage of a Boeing 737-500 75 feet down in the Java Sea, a day after the jet with 62 people onboard lost contact with air traffic controllers following takeoff from Indonesia\u2019s capital, officials said.\n\u201cWe received reports from the diver team that \u2026",
+      "content": "Indonesian divers on Sunday located parts of the wreckage of a Boeing 737-500 75 feet down in the Java Sea, a day after the jet with 62 people onboard lost contact with air traffic controllers following takeoff from Indonesia\u2019s capital, officials said.\n\u201cWe received reports from the diver team that \u2026",
+      "enclosure": {
+        "link": "https://www.gannett-cdn.com/presto/2021/01/10/USAT/4001c654-14d8-4c9e-b172-272ef6cd3608-AP_Indonesia_Plane_1.jpg?crop=4030,2267,x0,y217&amp;width=3200&amp;height=1680&amp;fit=bounds"
+      },
+      "categories": ["Jakarta", "Boeing", "Indonesia", "Airlines", "Flying"]
+    },
+    {
+      "title": "Pipe bombs found at DNC and RNC buildings were viable",
+      "pubDate": "2021-01-10 12:41:00",
+      "link": "https://www.cbsnews.com/news/pipe-bomb-dnc-rnc-buildings-viable/",
+      "guid": "flipboard-gIogql24ROakb6NOGO0ndA:a:43591897-1610296376",
+      "author": "CBS News",
+      "thumbnail": "",
+      "description": "A law enforcement official told CBS news on Saturday that the explosive devices found Wednesday at the headquarters of the Democratic National \u2026",
+      "content": "A law enforcement official told CBS news on Saturday that the explosive devices found Wednesday at the headquarters of the Democratic National \u2026",
+      "enclosure": {
+        "link": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/e2ed59d5-7d9a-4117-8513-f0f06cca6195/thumbnail/1200x630/d9ea558b15b728d1340bd717e57c8992/gettyimages-1021427714.jpg",
+        "type": "image/jpeg"
+      },
+      "categories": [
+        "FBI",
+        "Democratic Party",
+        "U.S. Politics",
+        "Law Enforcement",
+        "News"
+      ]
+    },
+    {
+      "title": "Pompeo lifts US-Taiwan restrictions in move likely to anger China",
+      "pubDate": "2021-01-10 06:38:29",
+      "link": "https://www.theguardian.com/world/2021/jan/09/mike-pompeo-restrictions-us-taiwan-china",
+      "guid": "flipboard-oF6I1-4US--qGhYmFe6mwg:a:43591897-1610296301",
+      "author": "Helen Davidson in Taipei",
+      "thumbnail": "",
+      "description": "Secretary of state Mike Pompeo is lifting restrictions on contacts between US officials and their Taiwanese counterparts, a move welcomed by Taiwan but labelled by some observers a publicity stunt likely designed to anger China.\nThe announcement came late on Saturday, just 11 days before the \u2026",
+      "content": "Secretary of state Mike Pompeo is lifting restrictions on contacts between US officials and their Taiwanese counterparts, a move welcomed by Taiwan but labelled by some observers a publicity stunt likely designed to anger China.\nThe announcement came late on Saturday, just 11 days before the \u2026",
+      "enclosure": {
+        "link": "https://ic-cdn.flipboard.com/guim.co.uk/f7d205a4e5368a97b9aa434216aa4b973388a13d/original.jpg",
+        "type": "image/jpeg"
+      },
+      "categories": [
+        "U.S. Dept. of State",
+        "Taiwan",
+        "Secretary Of State",
+        "Mike Pompeo",
+        "China"
+      ]
+    },
+    {
+      "title": "Pope Francis 'astonished' by mob attack on US Capitol",
+      "pubDate": "2021-01-09 19:22:40",
+      "link": "https://abcnews.go.com/International/wireStory/pope-francis-astonished-mob-attack-us-capitol-75152565?cid=clicksource_4380645_6_heads_hero_live_headlines_hed",
+      "guid": "flipboard-lRv66WXmR_-ALtz3okNNeQ:a:43591897-1610283218",
+      "author": "ABC News",
+      "thumbnail": "",
+      "description": "Pope Francis has told a private Italian broadcaster that he was \u201castonished\u201d by the mob attack at the U.S. Capitol\nVATICAN CITY -- Pope Francis has \u2026",
+      "content": "Pope Francis has told a private Italian broadcaster that he was \u201castonished\u201d by the mob attack at the U.S. Capitol\nVATICAN CITY -- Pope Francis has \u2026",
+      "enclosure": {
+        "link": "https://s.abcnews.com/images/International/WireAP_50cf6070b4c04104b94df258aa410761_16x9_992.jpg",
+        "type": "image/jpeg"
+      },
+      "categories": [
+        "Pope Francis",
+        "Catholicism",
+        "Christianity",
+        "Religion",
+        "Storming of U.S. Capitol"
+      ]
+    },
+    {
+      "title": "'Now The World Gets To See The Difference': BLM Protesters On The Capitol Attack",
+      "pubDate": "2021-01-09 13:53:00",
+      "link": "https://www.npr.org/2021/01/09/955221274/now-the-world-gets-to-see-the-difference-blm-protesters-on-the-capitol-attack",
+      "guid": "flipboard-K88Hqhn5T6WUp8tREVGITg:a:43591897-1610283216",
+      "author": "Leila Fadel",
+      "thumbnail": "",
+      "description": "From her couch in Minneapolis, Nuny Nichols watched a mob of largely white extremists stage an insurrection in Washington, D.C., set up a noose on a wooden beam outside the U.S. Capitol and walk a symbol of violence and slavery \u2014 the Confederate flag \u2014 through the building as they stormed and \u2026",
+      "content": "From her couch in Minneapolis, Nuny Nichols watched a mob of largely white extremists stage an insurrection in Washington, D.C., set up a noose on a wooden beam outside the U.S. Capitol and walk a symbol of violence and slavery \u2014 the Confederate flag \u2014 through the building as they stormed and \u2026",
+      "enclosure": {
+        "link": "https://ic-cdn.flipboard.com/npr.org/f026bb69b85b6df5393c22a119fd8449c94f2581/original.jpg",
+        "type": "image/jpeg"
+      },
+      "categories": [
+        "White Nationalism",
+        "White Supremacism",
+        "Racism",
+        "Policing",
+        "Race &amp; Ethnicity"
+      ]
+    },
+    {
+      "title": "Former NYPD head calls for 9/11-style commission to investigate Capitol riot",
+      "pubDate": "2021-01-10 12:01:05",
+      "link": "https://thehill.com/homenews/news/533497-former-nypd-head-calls-for-9-11-style-commission-to-investigate-capitol-riot",
+      "guid": "flipboard-KCd0igPJRauoR0JbnqR9Bg:a:43591897-1610283214",
+      "author": "Celine Castronuovo",
+      "thumbnail": "",
+      "description": "Former New York City Police Commissioner Bill Bratton on Sunday urged for the creation of a commission similar to the one that investigated the Sept. \u2026",
+      "content": "Former New York City Police Commissioner Bill Bratton on Sunday urged for the creation of a commission similar to the one that investigated the Sept. \u2026",
+      "enclosure": {
+        "link": "https://thehill.com/sites/default/files/gettyimages-609276668.jpg",
+        "type": "image/jpeg"
+      },
+      "categories": [
+        "U.S. Politics",
+        "Storming of U.S. Capitol",
+        "Policing",
+        "New York City"
+      ]
+    },
+    {
+      "title": "Man photographed carrying Pelosi's lectern, prominent QAnon figure charged over deadly riot",
+      "pubDate": "2021-01-08 20:00:58",
+      "link": "https://www.axios.com/federal-charges-capitol-riot-c233e49c-e1a3-4079-afc2-868fca37177c.html",
+      "guid": "flipboard-3Qabs2DUR0m3Ke9L74E9PA:a:43591897-1610283198",
+      "author": "Axios",
+      "thumbnail": "",
+      "description": "The man photographed carrying House Speaker Nancy Pelosi's lectern during Wednesday's deadly siege on the Capitol, as well as a man seen in pictures \u2026",
+      "content": "The man photographed carrying House Speaker Nancy Pelosi's lectern during Wednesday's deadly siege on the Capitol, as well as a man seen in pictures \u2026",
+      "enclosure": {
+        "link": "https://images.axios.com/jjedlikFxcLRwi6glHXRHzdq6kc=/0x0:1280x720/1366x768/2021/01/09/1610217797619.jpg",
+        "type": "image/jpeg"
+      },
+      "categories": [
+        "Constitutional Amendments",
+        "Bill Of Rights",
+        "Conspiracies",
+        "Civil Rights",
+        "Rights &amp; Freedoms"
+      ]
+    },
+    {
+      "title": "West Virginia lawmaker, charged after filming himself storming U.S. Capitol, resigns",
+      "pubDate": "2021-01-09 21:09:13",
+      "link": "https://www.cbsnews.com/news/derrick-evans-resigns-west-virginia-lawmaker-charged-after-filming-himself-storming-us-capitol/",
+      "guid": "flipboard-jc5fLEkTTqKT0oq1IXBG5A:a:43591897-1610282922",
+      "author": "CBS News",
+      "thumbnail": "",
+      "description": "A West Virginia lawmaker who filmed himself and supporters of President Donald Trump storming into the U.S. Capitol announced Saturday that he is \u2026",
+      "content": "A West Virginia lawmaker who filmed himself and supporters of President Donald Trump storming into the U.S. Capitol announced Saturday that he is \u2026",
+      "enclosure": {
+        "link": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/07/cfc2f1c3-3594-47cf-aee2-d53d02ba686f/thumbnail/620x450/e286cf9982ad45eadfcb721b61af36a1/derrick-evans.jpg#"
+      },
+      "categories": [
+        "U.S. Politics",
+        "West Virginia",
+        "United States",
+        "Donald Trump",
+        "U.S. News"
+      ]
+    }
+  ]
+}

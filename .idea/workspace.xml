@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f70fe76a-497c-4f03-8f87-17e6cdba94e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/src/guest.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/guest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/homepage_for_guest.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/homepage_for_guest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/homepage_for_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/homepage_for_user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/userlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/userlogin.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mtS6bkHLaBkYkGedXcUVo4zgmR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f70fe76a-497c-4f03-8f87-17e6cdba94e0" name="Default Changelist" comment="" />
+      <created>1610311220599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610311220599</updated>
+    </task>
+    <servers />
+  </component>
+</project>
