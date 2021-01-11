@@ -284,12 +284,21 @@ h1{
 
 .link-news{
     display: block;
-    text-align: center;
+    text-align: left;
     height: 48%;
 }
 
-a.link-news:hover{
-    color: red;
+.link-news h1{
+    color: rgba(255, 255, 255, 0.877);
+}
+
+.link-news h1:hover{
+    color: rgba(245, 159, 153, 0.993);
+}
+
+.link-news p{
+    color: rgba(255, 255, 255, 0.822);
+    cursor: default;
 }
 .video-youtube{
     width: 100%;
@@ -319,3 +328,6 @@ figure{
     margin: 0;
 }
 
+h1{
+    margin: 0;
+}
